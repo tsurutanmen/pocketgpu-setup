@@ -148,7 +148,7 @@ Tests: `bash linux/tests/run-tests.sh`. They use fake usbmuxd, adb, pgpu-probe, 
 - Windows 10 or 11, Windows PowerShell 5.1, Python 3
 - Run the tests: `powershell -ExecutionPolicy Bypass -File tests\run-tests.ps1`
 - The tests use fake devices only. They do not use a real phone, Apple services or a GPU.
-- See [CONTRIBUTING.md](CONTRIBUTING.md).
+- See [CONTRIBUTING-EN.md](CONTRIBUTING-EN.md).
 
 ## Reporting a bug
 
